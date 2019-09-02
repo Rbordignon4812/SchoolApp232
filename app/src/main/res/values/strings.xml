@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SchoolApp2-3</string>
+    <string name="schoolName">Osceola High School</string>
+    <string name="learnButton">Learn More</string>
+    <string name="phonetxt">Phone number</string>
+    <string name="addressTxt">Address</string>
+    <string name="phoneNumber">(727) 547-7717</string>
+    <string name="addressInfo">9751 98th St N, Seminole, FL 33777</string>
+</resources>
